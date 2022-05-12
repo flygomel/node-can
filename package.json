@@ -6,7 +6,8 @@
   "os": [
     "linux",
     "darwin",
-    "win32"
+    "win32",
+    "android"
   ],
   "scripts": {
     "lint": "eslint . --ext .js -c .eslintrc.js",
